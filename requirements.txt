@@ -1,0 +1,10 @@
+transformers
+torch
+datasets
+spacy
+nltk
+yfinance
+tqdm
+scikit-learn
+pandas
+numpy
