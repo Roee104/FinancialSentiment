@@ -1,0 +1,12 @@
+# Ignore the Python virtual environment
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore the raw dataset (we will copy it into DataDrive/ or keep it locally)
+data/raw/news_2020_2025.jsonl.gz
+
+# Ignore byte‐compiled Python files
+__pycache__/
+*.pyc
